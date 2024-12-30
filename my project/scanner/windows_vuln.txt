@@ -1,0 +1,15 @@
+[-] Missing patches: 10
+    - KB5027538: patches 12 vulnerabilities
+    - KB5030180: patches 10 vulnerabilities
+    - KB5034275: patches 9 vulnerabilities
+    - KB5032339: patches 4 vulnerabilities
+    - KB5044091: patches 4 vulnerabilities
+    - KB5020694: patches 2 vulnerabilities
+    - KB5037036: patches 2 vulnerabilities
+    - KB5041019: patches 2 vulnerabilities
+    - KBUpdate Information: patches 1 vulnerability
+    - KB5042320: patches 1 vulnerability
+[I] KB with the most recent release date
+    - ID: KB5044091
+    - Release date: 20241011
+[+] Done. Displaying 47 of the 47 vulnerabilities found.

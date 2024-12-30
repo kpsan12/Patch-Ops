@@ -1,0 +1,41 @@
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Python 3.13.1 Tcl/Tk Support (64-bit), Version: 3.13.1150.0, Vulnerability ID: N/A
+Software: Microsoft Edge, Version: 131.0.2903.112, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A
+Software: VLC media player, Version: 3.0.3, Vulnerability ID: N/A

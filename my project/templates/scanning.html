@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scanning - SecureScanner Pro</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="scanning-page">
+    <div class="scanning-container">
+        <div class="scan-animation">
+            <i class="fas fa-shield-alt"></i>
+            <div class="scan-line"></div>
+        </div>
+        <h2>Scanning System</h2>
+        <div class="scan-progress">
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+            <div class="scan-status">
+                <p>Analyzing system vulnerabilities...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function checkScanStatus() {
+            fetch('/scan-status')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.completed) {
+                        window.location.href = '/report';
+                    }
+                });
+        }
+
+        // Check status every 2 seconds
+        setInterval(checkScanStatus, 2000);
+    </script>
+</body>
+</html>

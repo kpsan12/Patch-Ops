@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecureScanner Pro</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">
+            <i class="fas fa-shield-alt"></i>
+            PATCH-OPS
+        </div>
+        <div class="nav-links">
+            <a href="#" class="active">Home</a>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <div class="hero-content">
+            <h1>Advanced Vulnerability Scanner</h1>
+            <p>Protect your system with enterprise-grade security analysis</p>
+            
+            <form action="{{ url_for('process') }}" method="POST" class="start-scan-form">
+                <div class="checkbox-wrapper">
+                    <input type="checkbox" id="admin-privilege" name="admin_privilege" value="yes" required>
+                    <label for="admin-privilege">Grant Administrative Access</label>
+                </div>
+                <button type="submit" class="start-scan-btn">
+                    <i class="fas fa-search"></i>
+                    Start Scanning
+                </button>
+            </form>
+        </div>
+        
+        <div class="features">
+            <div class="feature-card">
+                <i class="fas fa-bolt"></i>
+                <h3>Real-Time Scanning</h3>
+                <p>Instant vulnerability detection and analysis</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-lock"></i>
+                <h3>Advanced Security</h3>
+                <p>Enterprise-grade protection protocols</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-chart-line"></i>
+                <h3>Detailed Reports</h3>
+                <p>Comprehensive vulnerability insights</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

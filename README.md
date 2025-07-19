@@ -26,6 +26,7 @@ PatchOps is a smart and lightweight patch management tool that automates vulnera
 ```bash
 git clone https://github.com/kpsan12/Patch-Pps.git
 cd Patch-Ops
+python patchops.py
 ```
 
 
